@@ -5,10 +5,9 @@
 **GearGuard** is a smart, workflow‑driven application designed to help organizations efficiently **track assets**, **manage maintenance teams**, and **handle repair requests**.
 
 It connects three core entities:
-
-* **Equipment** – What is broken
-* **Maintenance Teams** – Who fixes it
-* **Maintenance Requests** – The work to be done
+-**Equipment** – What is broken
+- **Maintenance Teams** – Who fixes it
+- **Maintenance Requests** – The work to be done
 
 💡 *In short:*
 
