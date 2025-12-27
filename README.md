@@ -1,18 +1,37 @@
 ---
 
-##  About the Project
+## About the Project
 
-\*\*The GearGaurd is a smart, workflow‑driven application designed to help organizations efficiently \*\***track assets**, **manage maintenance teams**, and **handle repair requests**.
+**GearGuard** is a smart, workflow‑driven application designed to help organizations efficiently **track assets**, **manage maintenance teams**, and **handle repair requests**.
 
 It connects three core entities:
 
--  **Equipment** – What is broken
--  **Maintenance Teams** – Who fixes it
-- **Maintenance Requests** – The work to be done
+* **Equipment** – What is broken
+* **Maintenance Teams** – Who fixes it
+* **Maintenance Requests** – The work to be done
 
 💡 *In short:*
 
 > "One platform to know which asset needs maintenance, who is responsible, and when the work is done — with full visibility."
+
+---
+
+## Key Features
+
+| Feature                  | Description                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| **Equipment Registry**   | Centralized database for all assets with ownership, location & warranty info. |
+| **Team Management**      | Multiple specialized teams with assigned technicians.                         |
+| **Maintenance Requests** | Corrective (Breakdown) & Preventive (Routine) workflows.                      |
+| **Auto‑Fill Logic**      | Selecting equipment auto‑assigns category & maintenance team.                 |
+| **Kanban Workflow**      | Drag & drop requests across stages (New → In Progress → Repaired).            |
+| **Calendar View**        | Visual scheduling of preventive maintenance tasks.                            |
+| **Smart Buttons**        | View all maintenance requests linked to specific equipment.                   |
+| **Overdue Indicators**   | Visual alerts for delayed maintenance tasks.                                  |
+| **Scrap Logic**          | Mark equipment as unusable when scrapped.                                     |
+
+---
+
 
 ---
 
