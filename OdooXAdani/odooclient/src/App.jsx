@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"; 
 import Hero from "./pages/Hero";
 import Dashboard from "./pages/Dashboard";
-import CreateMaintenanceRequest from "./pages/Dashboard";
+import CreateMaintenanceRequest from "./pages/Requestm";
 import MaintenanceRequestBoard from "./pages/Maintainence";
 import Requestm from "./pages/Requestm";
 
